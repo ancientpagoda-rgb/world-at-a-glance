@@ -36,6 +36,17 @@ export default function FocusModal({
     fetch(`${base}data/latest/${metric.id}.json`).then((r) => r.json()).then(setLatest);
   }, [metric.id]);
 
+  const nameByIso3 = useMemo(() => {
+    const m = new Map<string, string>();
+    if (!geo) return m;
+    for (const f of geo.features as any[]) {
+      const iso3: string | undefined = f?.properties?.ISO_A3 || f?.properties?.iso_a3;
+      const name: string | undefined = f?.properties?.ADMIN || f?.properties?.name;
+      if (iso3 && name) m.set(iso3, name);
+    }
+    return m;
+  }, [geo]);
+
   const vals = useMemo(() => {
     if (!latest) return [] as Array<{ iso3: string; year: number; value: number }>;
     return Object.entries(latest.values)
@@ -142,15 +153,22 @@ export default function FocusModal({
                 <div
                   key={r.iso3}
                   style={{
-                    display: "flex",
-                    justifyContent: "space-between",
+                    display: "grid",
+                    gridTemplateColumns: "34px 1fr auto",
+                    gap: 8,
+                    alignItems: "baseline",
                     padding: "8px 10px",
                     borderBottom: "1px solid #f6f6f6",
                     fontSize: 13,
                   }}
                 >
-                  <span style={{ color: "#666", width: 26 }}>{i + 1}.</span>
-                  <span style={{ flex: 1, fontFamily: "ui-monospace, SFMono-Regular, Menlo, monospace" }}>{r.iso3}</span>
+                  <span style={{ color: "#666" }}>{i + 1}.</span>
+                  <span>
+                    {nameByIso3.get(r.iso3) ?? r.iso3}
+                    <span style={{ marginLeft: 8, color: "#888", fontFamily: "ui-monospace, SFMono-Regular, Menlo, monospace" }}>
+                      {r.iso3}
+                    </span>
+                  </span>
                   <span style={{ fontWeight: 650 }}>{fmt(r.value)}</span>
                 </div>
               ))}
