@@ -71,6 +71,13 @@ export default function MiniMap({ metric }: { metric: Metric }) {
       mapRef.current = null;
     }
 
+    // Some environments (certain headless browsers / locked-down GPUs) don't support WebGL.
+    if (!maplibregl.supported()) {
+      containerRef.current.innerHTML =
+        '<div style="padding:10px;font:12px system-ui;color:#666">WebGL not supported in this browser.</div>';
+      return;
+    }
+
     const map = new maplibregl.Map({
       container: containerRef.current,
       style: {
