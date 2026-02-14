@@ -1,0 +1,822 @@
+{
+  "metricId": "co2_per_unit_energy",
+  "updatedAt": "2026-02-14T20:25:25.120Z",
+  "values": {
+    "AFG": {
+      "year": 2023,
+      "value": 0.256
+    },
+    "ALB": {
+      "year": 2023,
+      "value": 0.196
+    },
+    "DZA": {
+      "year": 2024,
+      "value": 0.261
+    },
+    "AGO": {
+      "year": 2023,
+      "value": 0.22
+    },
+    "ATA": {
+      "year": 2023,
+      "value": 0
+    },
+    "ATG": {
+      "year": 2023,
+      "value": 0.213
+    },
+    "ARG": {
+      "year": 2024,
+      "value": 0.174
+    },
+    "ARM": {
+      "year": 2023,
+      "value": 0.157
+    },
+    "ABW": {
+      "year": 2023,
+      "value": 0.182
+    },
+    "AUS": {
+      "year": 2024,
+      "value": 0.231
+    },
+    "AUT": {
+      "year": 2024,
+      "value": 0.137
+    },
+    "AZE": {
+      "year": 2024,
+      "value": 0.191
+    },
+    "BHS": {
+      "year": 2023,
+      "value": 0.242
+    },
+    "BHR": {
+      "year": 2023,
+      "value": 0.15
+    },
+    "BGD": {
+      "year": 2024,
+      "value": 0.205
+    },
+    "BRB": {
+      "year": 2023,
+      "value": 0.233
+    },
+    "BLR": {
+      "year": 2024,
+      "value": 0.178
+    },
+    "BEL": {
+      "year": 2024,
+      "value": 0.133
+    },
+    "BLZ": {
+      "year": 2023,
+      "value": 0.207
+    },
+    "BEN": {
+      "year": 2023,
+      "value": 0.221
+    },
+    "BMU": {
+      "year": 2023,
+      "value": 0.228
+    },
+    "BTN": {
+      "year": 2023,
+      "value": 0.11
+    },
+    "BOL": {
+      "year": 2023,
+      "value": 0.234
+    },
+    "BIH": {
+      "year": 2023,
+      "value": 0.233
+    },
+    "BWA": {
+      "year": 2023,
+      "value": 0.307
+    },
+    "BRA": {
+      "year": 2024,
+      "value": 0.123
+    },
+    "VGB": {
+      "year": 2023,
+      "value": 0.242
+    },
+    "BRN": {
+      "year": 2023,
+      "value": 0.23
+    },
+    "BGR": {
+      "year": 2024,
+      "value": 0.165
+    },
+    "BFA": {
+      "year": 2023,
+      "value": 0.269
+    },
+    "BDI": {
+      "year": 2023,
+      "value": 0.237
+    },
+    "KHM": {
+      "year": 2023,
+      "value": 0.268
+    },
+    "CMR": {
+      "year": 2023,
+      "value": 0.273
+    },
+    "CAN": {
+      "year": 2024,
+      "value": 0.137
+    },
+    "CPV": {
+      "year": 2023,
+      "value": 0.187
+    },
+    "CAF": {
+      "year": 2023,
+      "value": 0.27
+    },
+    "TCD": {
+      "year": 2023,
+      "value": 0.335
+    },
+    "CHL": {
+      "year": 2024,
+      "value": 0.152
+    },
+    "CHN": {
+      "year": 2024,
+      "value": 0.251
+    },
+    "COL": {
+      "year": 2024,
+      "value": 0.15
+    },
+    "COM": {
+      "year": 2023,
+      "value": 0.305
+    },
+    "COG": {
+      "year": 2023,
+      "value": 0.621
+    },
+    "COK": {
+      "year": 2023,
+      "value": 0.175
+    },
+    "CRI": {
+      "year": 2023,
+      "value": 0.184
+    },
+    "CIV": {
+      "year": 2023,
+      "value": 0.181
+    },
+    "HRV": {
+      "year": 2024,
+      "value": 0.179
+    },
+    "CUB": {
+      "year": 2023,
+      "value": 0.279
+    },
+    "CYP": {
+      "year": 2024,
+      "value": 0.219
+    },
+    "CZE": {
+      "year": 2024,
+      "value": 0.193
+    },
+    "COD": {
+      "year": 2023,
+      "value": 0.145
+    },
+    "DNK": {
+      "year": 2024,
+      "value": 0.145
+    },
+    "DJI": {
+      "year": 2023,
+      "value": 0.158
+    },
+    "DMA": {
+      "year": 2023,
+      "value": 0.232
+    },
+    "DOM": {
+      "year": 2023,
+      "value": 0.244
+    },
+    "TLS": {
+      "year": 2023,
+      "value": 0.23
+    },
+    "ECU": {
+      "year": 2024,
+      "value": 0.199
+    },
+    "EGY": {
+      "year": 2024,
+      "value": 0.229
+    },
+    "SLV": {
+      "year": 2023,
+      "value": 0.192
+    },
+    "GNQ": {
+      "year": 2023,
+      "value": 0.234
+    },
+    "ERI": {
+      "year": 2023,
+      "value": 0.241
+    },
+    "EST": {
+      "year": 2024,
+      "value": 0.149
+    },
+    "SWZ": {
+      "year": 2023,
+      "value": 0.152
+    },
+    "ETH": {
+      "year": 2023,
+      "value": 0.197
+    },
+    "FRO": {
+      "year": 2023,
+      "value": 0.223
+    },
+    "FJI": {
+      "year": 2023,
+      "value": 0.201
+    },
+    "FIN": {
+      "year": 2024,
+      "value": 0.089
+    },
+    "FRA": {
+      "year": 2024,
+      "value": 0.105
+    },
+    "PYF": {
+      "year": 2023,
+      "value": 0.203
+    },
+    "GAB": {
+      "year": 2023,
+      "value": 0.331
+    },
+    "GMB": {
+      "year": 2023,
+      "value": 0.358
+    },
+    "GEO": {
+      "year": 2023,
+      "value": 0.191
+    },
+    "DEU": {
+      "year": 2024,
+      "value": 0.179
+    },
+    "GHA": {
+      "year": 2023,
+      "value": 0.194
+    },
+    "GRC": {
+      "year": 2024,
+      "value": 0.166
+    },
+    "GRL": {
+      "year": 2023,
+      "value": 0.232
+    },
+    "GRD": {
+      "year": 2023,
+      "value": 0.254
+    },
+    "GTM": {
+      "year": 2023,
+      "value": 0.217
+    },
+    "GIN": {
+      "year": 2023,
+      "value": 0.175
+    },
+    "GNB": {
+      "year": 2023,
+      "value": 0.222
+    },
+    "GUY": {
+      "year": 2023,
+      "value": 0.393
+    },
+    "HTI": {
+      "year": 2023,
+      "value": 0.241
+    },
+    "HND": {
+      "year": 2023,
+      "value": 0.239
+    },
+    "HKG": {
+      "year": 2024,
+      "value": 0.122
+    },
+    "HUN": {
+      "year": 2024,
+      "value": 0.153
+    },
+    "ISL": {
+      "year": 2024,
+      "value": 0.061
+    },
+    "IND": {
+      "year": 2024,
+      "value": 0.282
+    },
+    "IDN": {
+      "year": 2024,
+      "value": 0.272
+    },
+    "IRN": {
+      "year": 2024,
+      "value": 0.221
+    },
+    "IRQ": {
+      "year": 2024,
+      "value": 0.317
+    },
+    "IRL": {
+      "year": 2024,
+      "value": 0.183
+    },
+    "ISR": {
+      "year": 2024,
+      "value": 0.189
+    },
+    "ITA": {
+      "year": 2024,
+      "value": 0.178
+    },
+    "JAM": {
+      "year": 2023,
+      "value": 0.23
+    },
+    "JPN": {
+      "year": 2024,
+      "value": 0.201
+    },
+    "JOR": {
+      "year": 2023,
+      "value": 0.21
+    },
+    "KAZ": {
+      "year": 2024,
+      "value": 0.333
+    },
+    "KEN": {
+      "year": 2023,
+      "value": 0.238
+    },
+    "KIR": {
+      "year": 2023,
+      "value": 0.208
+    },
+    "KWT": {
+      "year": 2024,
+      "value": 0.247
+    },
+    "KGZ": {
+      "year": 2023,
+      "value": 0.195
+    },
+    "LAO": {
+      "year": 2023,
+      "value": 0.312
+    },
+    "LVA": {
+      "year": 2024,
+      "value": 0.167
+    },
+    "LBN": {
+      "year": 2023,
+      "value": 0.213
+    },
+    "LSO": {
+      "year": 2023,
+      "value": 0.454
+    },
+    "LBR": {
+      "year": 2023,
+      "value": 0.284
+    },
+    "LBY": {
+      "year": 2023,
+      "value": 0.297
+    },
+    "LTU": {
+      "year": 2024,
+      "value": 0.171
+    },
+    "LUX": {
+      "year": 2024,
+      "value": 0.177
+    },
+    "MAC": {
+      "year": 2023,
+      "value": 0.077
+    },
+    "MDG": {
+      "year": 2023,
+      "value": 0.268
+    },
+    "MWI": {
+      "year": 2023,
+      "value": 0.167
+    },
+    "MYS": {
+      "year": 2024,
+      "value": 0.21
+    },
+    "MDV": {
+      "year": 2023,
+      "value": 0.281
+    },
+    "MLI": {
+      "year": 2023,
+      "value": 0.225
+    },
+    "MLT": {
+      "year": 2023,
+      "value": 0.047
+    },
+    "MRT": {
+      "year": 2023,
+      "value": 0.242
+    },
+    "MUS": {
+      "year": 2023,
+      "value": 0.204
+    },
+    "MEX": {
+      "year": 2024,
+      "value": 0.2
+    },
+    "FSM": {
+      "year": 2023,
+      "value": 0.289
+    },
+    "MDA": {
+      "year": 2023,
+      "value": 0.146
+    },
+    "MNG": {
+      "year": 2023,
+      "value": 0.654
+    },
+    "MNE": {
+      "year": 2023,
+      "value": 0.204
+    },
+    "MSR": {
+      "year": 2023,
+      "value": 0.237
+    },
+    "MAR": {
+      "year": 2024,
+      "value": 0.25
+    },
+    "MOZ": {
+      "year": 2023,
+      "value": 0.159
+    },
+    "MMR": {
+      "year": 2023,
+      "value": 0.239
+    },
+    "NAM": {
+      "year": 2023,
+      "value": 0.182
+    },
+    "NRU": {
+      "year": 2023,
+      "value": 0.169
+    },
+    "NPL": {
+      "year": 2023,
+      "value": 0.319
+    },
+    "NLD": {
+      "year": 2024,
+      "value": 0.124
+    },
+    "NCL": {
+      "year": 2023,
+      "value": 0.274
+    },
+    "NZL": {
+      "year": 2024,
+      "value": 0.139
+    },
+    "NIC": {
+      "year": 2023,
+      "value": 0.255
+    },
+    "NER": {
+      "year": 2023,
+      "value": 0.231
+    },
+    "NGA": {
+      "year": 2023,
+      "value": 0.242
+    },
+    "NIU": {
+      "year": 2023,
+      "value": 0.2
+    },
+    "PRK": {
+      "year": 2023,
+      "value": 0.336
+    },
+    "MKD": {
+      "year": 2024,
+      "value": 0.224
+    },
+    "NOR": {
+      "year": 2024,
+      "value": 0.067
+    },
+    "OMN": {
+      "year": 2024,
+      "value": 0.185
+    },
+    "PAK": {
+      "year": 2024,
+      "value": 0.202
+    },
+    "PSE": {
+      "year": 2023,
+      "value": 0.2
+    },
+    "PAN": {
+      "year": 2023,
+      "value": 0.128
+    },
+    "PNG": {
+      "year": 2023,
+      "value": 0.313
+    },
+    "PRY": {
+      "year": 2023,
+      "value": 0.148
+    },
+    "PER": {
+      "year": 2024,
+      "value": 0.188
+    },
+    "PHL": {
+      "year": 2024,
+      "value": 0.268
+    },
+    "POL": {
+      "year": 2024,
+      "value": 0.242
+    },
+    "PRT": {
+      "year": 2024,
+      "value": 0.132
+    },
+    "QAT": {
+      "year": 2024,
+      "value": 0.192
+    },
+    "ROU": {
+      "year": 2024,
+      "value": 0.193
+    },
+    "RUS": {
+      "year": 2024,
+      "value": 0.197
+    },
+    "RWA": {
+      "year": 2023,
+      "value": 0.273
+    },
+    "SHN": {
+      "year": 2023,
+      "value": 0.21
+    },
+    "KNA": {
+      "year": 2023,
+      "value": 0.224
+    },
+    "LCA": {
+      "year": 2023,
+      "value": 0.207
+    },
+    "SPM": {
+      "year": 2023,
+      "value": 0.214
+    },
+    "VCT": {
+      "year": 2023,
+      "value": 0.223
+    },
+    "WSM": {
+      "year": 2023,
+      "value": 0.158
+    },
+    "STP": {
+      "year": 2023,
+      "value": 0.233
+    },
+    "SAU": {
+      "year": 2024,
+      "value": 0.21
+    },
+    "SEN": {
+      "year": 2023,
+      "value": 0.32
+    },
+    "SRB": {
+      "year": 2023,
+      "value": 0.241
+    },
+    "SYC": {
+      "year": 2023,
+      "value": 0.173
+    },
+    "SLE": {
+      "year": 2023,
+      "value": 0.242
+    },
+    "SGP": {
+      "year": 2024,
+      "value": 0.051
+    },
+    "SVK": {
+      "year": 2024,
+      "value": 0.161
+    },
+    "SVN": {
+      "year": 2024,
+      "value": 0.161
+    },
+    "SLB": {
+      "year": 2023,
+      "value": 0.213
+    },
+    "SOM": {
+      "year": 2023,
+      "value": 0.371
+    },
+    "ZAF": {
+      "year": 2024,
+      "value": 0.323
+    },
+    "KOR": {
+      "year": 2024,
+      "value": 0.161
+    },
+    "SSD": {
+      "year": 2023,
+      "value": 0.237
+    },
+    "ESP": {
+      "year": 2024,
+      "value": 0.136
+    },
+    "LKA": {
+      "year": 2024,
+      "value": 0.187
+    },
+    "SDN": {
+      "year": 2023,
+      "value": 0.197
+    },
+    "SUR": {
+      "year": 2023,
+      "value": 0.256
+    },
+    "SWE": {
+      "year": 2024,
+      "value": 0.062
+    },
+    "CHE": {
+      "year": 2024,
+      "value": 0.095
+    },
+    "SYR": {
+      "year": 2023,
+      "value": 0.338
+    },
+    "TWN": {
+      "year": 2024,
+      "value": 0.209
+    },
+    "TJK": {
+      "year": 2023,
+      "value": 0.208
+    },
+    "TZA": {
+      "year": 2023,
+      "value": 0.254
+    },
+    "THA": {
+      "year": 2024,
+      "value": 0.188
+    },
+    "TGO": {
+      "year": 2023,
+      "value": 0.216
+    },
+    "TON": {
+      "year": 2023,
+      "value": 0.204
+    },
+    "TTO": {
+      "year": 2024,
+      "value": 0.216
+    },
+    "TUN": {
+      "year": 2023,
+      "value": 0.263
+    },
+    "TUR": {
+      "year": 2024,
+      "value": 0.245
+    },
+    "TKM": {
+      "year": 2024,
+      "value": 0.218
+    },
+    "TCA": {
+      "year": 2023,
+      "value": 0.196
+    },
+    "UGA": {
+      "year": 2023,
+      "value": 0.194
+    },
+    "UKR": {
+      "year": 2024,
+      "value": 0.237
+    },
+    "ARE": {
+      "year": 2024,
+      "value": 0.146
+    },
+    "GBR": {
+      "year": 2024,
+      "value": 0.162
+    },
+    "USA": {
+      "year": 2024,
+      "value": 0.185
+    },
+    "URY": {
+      "year": 2023,
+      "value": 0.168
+    },
+    "UZB": {
+      "year": 2024,
+      "value": 0.2
+    },
+    "VUT": {
+      "year": 2023,
+      "value": 0.155
+    },
+    "VEN": {
+      "year": 2024,
+      "value": 0.166
+    },
+    "VNM": {
+      "year": 2024,
+      "value": 0.251
+    },
+    "YEM": {
+      "year": 2023,
+      "value": 0.294
+    },
+    "ZMB": {
+      "year": 2023,
+      "value": 0.236
+    },
+    "ZWE": {
+      "year": 2023,
+      "value": 0.259
+    }
+  }
+}
