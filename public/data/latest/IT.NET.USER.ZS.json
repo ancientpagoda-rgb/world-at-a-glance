@@ -1,122 +1,122 @@
 {
   "metricId": "IT.NET.USER.ZS",
-  "updatedAt": "2026-02-24T14:10:16.413Z",
+  "updatedAt": "2026-02-25T14:09:15.316Z",
   "values": {
     "AFE": {
-      "year": 2024,
-      "value": 28.8
+      "year": 2025,
+      "value": 30.4
     },
     "AFW": {
-      "year": 2024,
-      "value": 40
+      "year": 2025,
+      "value": 42.4
     },
     "EAS": {
-      "year": 2024,
-      "value": 86.6
+      "year": 2025,
+      "value": 88.4
     },
     "EAP": {
-      "year": 2024,
-      "value": 86.1
+      "year": 2025,
+      "value": 88.1
     },
     "TEA": {
-      "year": 2024,
-      "value": 86.8
-    },
-    "ECS": {
-      "year": 2024,
-      "value": 90.9
-    },
-    "ECA": {
-      "year": 2024,
-      "value": 85.8
-    },
-    "TEC": {
-      "year": 2024,
+      "year": 2025,
       "value": 88.9
     },
+    "ECS": {
+      "year": 2025,
+      "value": 92.4
+    },
+    "ECA": {
+      "year": 2025,
+      "value": 87.5
+    },
+    "TEC": {
+      "year": 2025,
+      "value": 90.8
+    },
     "FCS": {
-      "year": 2024,
-      "value": 37
+      "year": 2025,
+      "value": 38.5
     },
     "IBD": {
-      "year": 2024,
-      "value": 79.9
+      "year": 2025,
+      "value": 82.7
     },
     "IBT": {
-      "year": 2024,
-      "value": 67.7
+      "year": 2025,
+      "value": 70.3
     },
     "IDB": {
-      "year": 2024,
-      "value": 41.2
+      "year": 2025,
+      "value": 44.2
     },
     "IDX": {
-      "year": 2024,
-      "value": 33.9
+      "year": 2025,
+      "value": 36.1
     },
     "IDA": {
-      "year": 2024,
-      "value": 36.4
+      "year": 2025,
+      "value": 38.9
     },
     "LCN": {
-      "year": 2024,
-      "value": 81.7
+      "year": 2025,
+      "value": 83.7
     },
     "LAC": {
-      "year": 2024,
-      "value": 81.4
+      "year": 2025,
+      "value": 83.6
     },
     "TLA": {
-      "year": 2024,
-      "value": 81.8
+      "year": 2025,
+      "value": 83.9
     },
     "LDC": {
-      "year": 2024,
-      "value": 31.4
+      "year": 2025,
+      "value": 33.7
     },
     "MEA": {
-      "year": 2024,
-      "value": 61.5
+      "year": 2025,
+      "value": 63.7
     },
     "MNA": {
-      "year": 2024,
-      "value": 58
+      "year": 2025,
+      "value": 0
     },
     "TMN": {
-      "year": 2024,
-      "value": 57.8
+      "year": 2025,
+      "value": 60.2
     },
     "NAC": {
-      "year": 2024,
-      "value": 94.4
+      "year": 2025,
+      "value": 95.6
     },
     "SST": {
-      "year": 2024,
-      "value": 72.5
+      "year": 2025,
+      "value": 0
     },
     "SAS": {
-      "year": 2024,
-      "value": 62.8
+      "year": 2025,
+      "value": 67.8
     },
     "TSA": {
-      "year": 2024,
-      "value": 62.8
+      "year": 2025,
+      "value": 67.8
     },
     "SSF": {
-      "year": 2024,
-      "value": 33.6
+      "year": 2025,
+      "value": 35.7
     },
     "SSA": {
-      "year": 2024,
-      "value": 34.7
+      "year": 2025,
+      "value": 36.5
     },
     "TSS": {
-      "year": 2024,
-      "value": 33.3
+      "year": 2025,
+      "value": 35.2
     },
     "WLD": {
-      "year": 2024,
-      "value": 71.2
+      "year": 2025,
+      "value": 73.6
     },
     "AFG": {
       "year": 2023,
@@ -471,8 +471,8 @@
       "value": 99.8301
     },
     "IND": {
-      "year": 2022,
-      "value": 55.9
+      "year": 2025,
+      "value": 70
     },
     "IDN": {
       "year": 2024,
