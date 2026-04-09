@@ -1,6 +1,6 @@
 {
   "metricId": "EG.ELC.ACCS.ZS",
-  "updatedAt": "2026-04-08T14:45:08.200Z",
+  "updatedAt": "2026-04-09T14:53:18.448Z",
   "values": {
     "AFE": {
       "year": 2023,
@@ -92,7 +92,7 @@
     },
     "LCN": {
       "year": 2023,
-      "value": 98.4226177260082
+      "value": 98.4226177260083
     },
     "LAC": {
       "year": 2023,

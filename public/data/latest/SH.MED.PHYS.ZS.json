@@ -1,6 +1,6 @@
 {
   "metricId": "SH.MED.PHYS.ZS",
-  "updatedAt": "2026-04-08T14:45:08.200Z",
+  "updatedAt": "2026-04-09T14:53:18.448Z",
   "values": {
     "AFE": {
       "year": 2022,
@@ -32,7 +32,7 @@
     },
     "EAP": {
       "year": 2022,
-      "value": 2.35417104796866
+      "value": 2.35417104796867
     },
     "TEA": {
       "year": 2022,
