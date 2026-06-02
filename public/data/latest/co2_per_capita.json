@@ -1,6 +1,6 @@
 {
   "metricId": "co2_per_capita",
-  "updatedAt": "2026-06-01T18:36:38.996Z",
+  "updatedAt": "2026-06-02T17:21:40.156Z",
   "values": {
     "AFG": {
       "year": 2024,
@@ -768,7 +768,7 @@
     },
     "TGO": {
       "year": 2024,
-      "value": 0.289
+      "value": 0.328
     },
     "TON": {
       "year": 2024,

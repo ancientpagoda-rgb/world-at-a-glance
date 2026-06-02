@@ -1,6 +1,6 @@
 {
   "metricId": "consumption_co2_per_capita",
-  "updatedAt": "2026-06-01T18:36:38.996Z",
+  "updatedAt": "2026-06-02T17:21:40.156Z",
   "values": {
     "ALB": {
       "year": 2023,
@@ -428,7 +428,7 @@
     },
     "TGO": {
       "year": 2023,
-      "value": 0.929
+      "value": 1.051
     },
     "TTO": {
       "year": 2023,
