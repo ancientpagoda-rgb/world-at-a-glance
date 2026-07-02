@@ -1,1050 +1,1046 @@
 {
   "metricId": "SP.POP.TOTL",
-  "updatedAt": "2026-06-30T15:26:24.302Z",
+  "updatedAt": "2026-07-02T15:13:44.667Z",
   "values": {
     "AFE": {
-      "year": 2024,
-      "value": 769280888
+      "year": 2025,
+      "value": 788844284
     },
     "AFW": {
-      "year": 2024,
-      "value": 521764076
+      "year": 2025,
+      "value": 532809933
     },
     "ARB": {
-      "year": 2024,
-      "value": 492612632
+      "year": 2025,
+      "value": 503356133
     },
     "CSS": {
-      "year": 2024,
-      "value": 4539060
+      "year": 2025,
+      "value": 4556558
     },
     "CEB": {
-      "year": 2024,
-      "value": 100061963
+      "year": 2025,
+      "value": 99814596
     },
     "EAR": {
-      "year": 2024,
-      "value": 3552278604
+      "year": 2025,
+      "value": 3592750579
     },
     "EAS": {
-      "year": 2024,
-      "value": 2388319494
+      "year": 2025,
+      "value": 2390873921
     },
     "EAP": {
-      "year": 2024,
-      "value": 2141122258
+      "year": 2025,
+      "value": 2143908411
     },
     "TEA": {
-      "year": 2024,
-      "value": 2114653077
+      "year": 2025,
+      "value": 2117367063
     },
     "EMU": {
-      "year": 2024,
-      "value": 351161936
+      "year": 2025,
+      "value": 358664361
     },
     "ECS": {
-      "year": 2024,
-      "value": 928263208
+      "year": 2025,
+      "value": 932525035
     },
     "ECA": {
-      "year": 2024,
-      "value": 250281521
+      "year": 2025,
+      "value": 253280471
     },
     "TEC": {
-      "year": 2024,
-      "value": 459734030
+      "year": 2025,
+      "value": 462559433
     },
     "EUU": {
-      "year": 2024,
-      "value": 450228188
-    },
-    "FCS": {
-      "year": 2024,
-      "value": 1081767572
+      "year": 2025,
+      "value": 451127411
     },
     "HPC": {
-      "year": 2024,
-      "value": 941413026
+      "year": 2025,
+      "value": 965148593
     },
     "IBD": {
-      "year": 2024,
-      "value": 4979421568
+      "year": 2025,
+      "value": 5006926951
     },
     "IBT": {
-      "year": 2024,
-      "value": 6926222113
+      "year": 2025,
+      "value": 6993790788
     },
     "IDB": {
-      "year": 2024,
-      "value": 676957651
+      "year": 2025,
+      "value": 689783382
     },
     "IDX": {
-      "year": 2024,
-      "value": 1269842894
+      "year": 2025,
+      "value": 1297080455
     },
     "IDA": {
-      "year": 2024,
-      "value": 1946800545
+      "year": 2025,
+      "value": 1986863837
     },
     "LTE": {
-      "year": 2024,
-      "value": 2328628339
+      "year": 2025,
+      "value": 2330425681
     },
     "LCN": {
-      "year": 2024,
-      "value": 662186388
+      "year": 2025,
+      "value": 666592570
     },
     "LAC": {
-      "year": 2024,
-      "value": 594158638
+      "year": 2025,
+      "value": 626808315
     },
     "TLA": {
-      "year": 2024,
-      "value": 647003746
+      "year": 2025,
+      "value": 651467364
     },
     "LDC": {
-      "year": 2024,
-      "value": 1187777591
+      "year": 2025,
+      "value": 1214167506
     },
     "LMY": {
-      "year": 2024,
-      "value": 6563501708
+      "year": 2025,
+      "value": 6791684991
     },
     "MEA": {
-      "year": 2024,
-      "value": 813146136
+      "year": 2025,
+      "value": 828025185
     },
     "MNA": {
-      "year": 2024,
-      "value": 741690916
+      "year": 2025,
+      "value": 753903407
     },
     "TMN": {
-      "year": 2024,
-      "value": 736401764
+      "year": 2025,
+      "value": 748489811
     },
     "MIC": {
-      "year": 2024,
-      "value": 5938893610
+      "year": 2025,
+      "value": 6024194822
     },
     "NAC": {
-      "year": 2024,
-      "value": 381464223
+      "year": 2025,
+      "value": 383501065
     },
     "OED": {
-      "year": 2024,
-      "value": 1396877448
+      "year": 2025,
+      "value": 1402243571
     },
     "OSS": {
-      "year": 2024,
-      "value": 12931878
+      "year": 2025,
+      "value": 13034928
     },
     "PSS": {
-      "year": 2024,
-      "value": 2722467
+      "year": 2025,
+      "value": 2755649
     },
     "PST": {
-      "year": 2024,
-      "value": 1128377826
+      "year": 2025,
+      "value": 1132621782
     },
     "PRE": {
-      "year": 2024,
-      "value": 1105951788
+      "year": 2025,
+      "value": 1133132223
     },
     "SST": {
-      "year": 2024,
-      "value": 20193405
+      "year": 2025,
+      "value": 20347135
     },
     "SAS": {
-      "year": 2024,
-      "value": 1677384532
+      "year": 2025,
+      "value": 1692252900
     },
     "TSA": {
-      "year": 2024,
-      "value": 1677384532
+      "year": 2025,
+      "value": 1692252900
     },
     "SSF": {
-      "year": 2024,
-      "value": 1291044964
+      "year": 2025,
+      "value": 1321654217
     },
     "SSA": {
-      "year": 2024,
-      "value": 1158863843
+      "year": 2025,
+      "value": 1321531487
     },
     "TSS": {
-      "year": 2024,
-      "value": 1291044964
+      "year": 2025,
+      "value": 1321654217
     },
     "WLD": {
-      "year": 2024,
-      "value": 8141808945
+      "year": 2025,
+      "value": 8215424893
     },
     "AFG": {
-      "year": 2024,
-      "value": 42647492
+      "year": 2025,
+      "value": 43844111
     },
     "ALB": {
-      "year": 2024,
-      "value": 2377128
+      "year": 2025,
+      "value": 2349580
     },
     "DZA": {
-      "year": 2024,
-      "value": 46814308
+      "year": 2025,
+      "value": 47435312
     },
     "ASM": {
-      "year": 2024,
-      "value": 46765
+      "year": 2025,
+      "value": 46029
     },
     "AND": {
-      "year": 2024,
-      "value": 81938
+      "year": 2025,
+      "value": 82904
     },
     "AGO": {
-      "year": 2024,
-      "value": 37885849
+      "year": 2025,
+      "value": 39040039
     },
     "ATG": {
-      "year": 2024,
-      "value": 93772
+      "year": 2025,
+      "value": 94209
     },
     "ARG": {
-      "year": 2024,
-      "value": 45696159
+      "year": 2025,
+      "value": 45851378
     },
     "ARM": {
-      "year": 2024,
-      "value": 3033500
+      "year": 2025,
+      "value": 3086700
     },
     "ABW": {
-      "year": 2024,
-      "value": 107995
+      "year": 2025,
+      "value": 108785
     },
     "AUS": {
-      "year": 2024,
-      "value": 27196812
+      "year": 2025,
+      "value": 27614411
     },
     "AUT": {
-      "year": 2024,
-      "value": 9177982
+      "year": 2025,
+      "value": 9208163
     },
     "AZE": {
-      "year": 2024,
-      "value": 10202830
+      "year": 2025,
+      "value": 10246996
     },
     "BHS": {
-      "year": 2024,
-      "value": 401283
+      "year": 2025,
+      "value": 403033
     },
     "BHR": {
-      "year": 2024,
-      "value": 1588670
+      "year": 2025,
+      "value": 1600366
     },
     "BGD": {
-      "year": 2024,
-      "value": 173562364
+      "year": 2025,
+      "value": 175686899
     },
     "BRB": {
-      "year": 2024,
-      "value": 282467
+      "year": 2025,
+      "value": 282623
     },
     "BLR": {
-      "year": 2024,
-      "value": 9132629
+      "year": 2025,
+      "value": 9085991
     },
     "BEL": {
-      "year": 2024,
-      "value": 11858610
+      "year": 2025,
+      "value": 11941781
     },
     "BLZ": {
-      "year": 2024,
-      "value": 417072
+      "year": 2025,
+      "value": 422924
     },
     "BEN": {
-      "year": 2024,
-      "value": 14462724
+      "year": 2025,
+      "value": 14814460
     },
     "BMU": {
-      "year": 2024,
-      "value": 64636
+      "year": 2025,
+      "value": 64555
     },
     "BTN": {
-      "year": 2024,
-      "value": 791524
+      "year": 2025,
+      "value": 796682
     },
     "BOL": {
-      "year": 2024,
-      "value": 12413315
+      "year": 2025,
+      "value": 12581843
     },
     "BIH": {
-      "year": 2024,
-      "value": 3164253
+      "year": 2025,
+      "value": 3140095
     },
     "BWA": {
-      "year": 2024,
-      "value": 2521139
+      "year": 2025,
+      "value": 2562122
     },
     "BRA": {
-      "year": 2024,
-      "value": 211998573
+      "year": 2025,
+      "value": 212812405
     },
     "VGB": {
-      "year": 2024,
-      "value": 39471
+      "year": 2025,
+      "value": 39732
     },
     "BRN": {
-      "year": 2024,
-      "value": 462721
+      "year": 2025,
+      "value": 466330
     },
     "BGR": {
-      "year": 2024,
-      "value": 6441421
+      "year": 2025,
+      "value": 6433302
     },
     "BFA": {
-      "year": 2024,
-      "value": 23548781
+      "year": 2025,
+      "value": 24074580
     },
     "BDI": {
-      "year": 2024,
-      "value": 14047786
+      "year": 2025,
+      "value": 14390003
     },
     "CPV": {
-      "year": 2024,
-      "value": 524877
+      "year": 2025,
+      "value": 527326
     },
     "KHM": {
-      "year": 2024,
-      "value": 17638801
+      "year": 2025,
+      "value": 17847982
     },
     "CMR": {
-      "year": 2024,
-      "value": 29123744
+      "year": 2025,
+      "value": 29879337
     },
     "CAN": {
-      "year": 2024,
-      "value": 41288599
+      "year": 2025,
+      "value": 41651653
     },
     "CYM": {
-      "year": 2024,
-      "value": 74457
+      "year": 2025,
+      "value": 75844
     },
     "CAF": {
-      "year": 2024,
-      "value": 5330690
+      "year": 2025,
+      "value": 5513282
     },
     "TCD": {
-      "year": 2024,
-      "value": 20299123
+      "year": 2025,
+      "value": 21003705
     },
     "CHI": {
-      "year": 2024,
-      "value": 168126
+      "year": 2025,
+      "value": 168466
     },
     "CHL": {
-      "year": 2024,
-      "value": 19764771
+      "year": 2025,
+      "value": 19859921
     },
     "CHN": {
-      "year": 2024,
-      "value": 1408975000
+      "year": 2025,
+      "value": 1406585000
     },
     "COL": {
-      "year": 2024,
-      "value": 52886363
+      "year": 2025,
+      "value": 53425635
     },
     "COM": {
-      "year": 2024,
-      "value": 866628
+      "year": 2025,
+      "value": 882847
     },
     "COD": {
-      "year": 2024,
-      "value": 109276265
+      "year": 2025,
+      "value": 112832473
     },
     "COG": {
-      "year": 2024,
-      "value": 6332961
+      "year": 2025,
+      "value": 6484437
     },
     "CRI": {
-      "year": 2024,
-      "value": 5129910
+      "year": 2025,
+      "value": 5152950
     },
     "CIV": {
-      "year": 2024,
-      "value": 31934230
+      "year": 2025,
+      "value": 32711547
     },
     "HRV": {
-      "year": 2024,
-      "value": 3866200
+      "year": 2025,
+      "value": 3876200
     },
     "CUB": {
-      "year": 2024,
-      "value": 10979783
+      "year": 2025,
+      "value": 10937203
     },
     "CUW": {
-      "year": 2024,
-      "value": 155967
+      "year": 2025,
+      "value": 156263
     },
     "CYP": {
-      "year": 2024,
-      "value": 1358282
+      "year": 2025,
+      "value": 1370754
     },
     "CZE": {
-      "year": 2024,
-      "value": 10905028
+      "year": 2025,
+      "value": 10886878
     },
     "DNK": {
-      "year": 2024,
-      "value": 5976992
+      "year": 2025,
+      "value": 6009169
     },
     "DJI": {
-      "year": 2024,
-      "value": 1168722
+      "year": 2025,
+      "value": 1184076
     },
     "DMA": {
-      "year": 2024,
-      "value": 66205
+      "year": 2025,
+      "value": 65871
     },
     "DOM": {
-      "year": 2024,
-      "value": 11427557
+      "year": 2025,
+      "value": 11520487
     },
     "ECU": {
-      "year": 2024,
-      "value": 18135478
+      "year": 2025,
+      "value": 18289896
     },
     "EGY": {
-      "year": 2024,
-      "value": 116538258
+      "year": 2025,
+      "value": 118365995
     },
     "SLV": {
-      "year": 2024,
-      "value": 6338193
+      "year": 2025,
+      "value": 6365503
     },
     "GNQ": {
-      "year": 2024,
-      "value": 1892516
+      "year": 2025,
+      "value": 1938431
     },
     "ERI": {
-      "year": 2024,
-      "value": 3535603
+      "year": 2025,
+      "value": 3607003
     },
     "EST": {
-      "year": 2024,
-      "value": 1372341
+      "year": 2025,
+      "value": 1366475
     },
     "SWZ": {
-      "year": 2024,
-      "value": 1242822
+      "year": 2025,
+      "value": 1256174
     },
     "ETH": {
-      "year": 2024,
-      "value": 132059767
+      "year": 2025,
+      "value": 135472051
     },
     "FRO": {
-      "year": 2024,
-      "value": 54681
+      "year": 2025,
+      "value": 54900
     },
     "FJI": {
-      "year": 2024,
-      "value": 928784
+      "year": 2025,
+      "value": 933154
     },
     "FIN": {
-      "year": 2024,
-      "value": 5619911
+      "year": 2025,
+      "value": 5646436
     },
     "FRA": {
-      "year": 2024,
-      "value": 68551653
+      "year": 2025,
+      "value": 68720337
     },
     "PYF": {
-      "year": 2024,
-      "value": 281807
+      "year": 2025,
+      "value": 282465
     },
     "GAB": {
-      "year": 2024,
-      "value": 2538952
+      "year": 2025,
+      "value": 2593130
     },
     "GMB": {
-      "year": 2024,
-      "value": 2759988
+      "year": 2025,
+      "value": 2822093
     },
     "GEO": {
-      "year": 2024,
-      "value": 3699557
+      "year": 2025,
+      "value": 3935766
     },
     "DEU": {
-      "year": 2024,
-      "value": 83516593
+      "year": 2025,
+      "value": 83491249
     },
     "GHA": {
-      "year": 2024,
-      "value": 34427414
+      "year": 2025,
+      "value": 35064272
     },
     "GIB": {
-      "year": 2024,
-      "value": 39329
+      "year": 2025,
+      "value": 40126
     },
     "GRC": {
-      "year": 2024,
-      "value": 10405134
+      "year": 2025,
+      "value": 10413962
     },
     "GRL": {
-      "year": 2024,
-      "value": 56836
+      "year": 2025,
+      "value": 56831
     },
     "GRD": {
-      "year": 2024,
-      "value": 117207
+      "year": 2025,
+      "value": 117303
     },
     "GUM": {
-      "year": 2024,
-      "value": 167777
+      "year": 2025,
+      "value": 168999
     },
     "GTM": {
-      "year": 2024,
-      "value": 18406359
+      "year": 2025,
+      "value": 18687881
     },
     "GIN": {
-      "year": 2024,
-      "value": 14754785
+      "year": 2025,
+      "value": 15099727
     },
     "GNB": {
-      "year": 2024,
-      "value": 2201352
+      "year": 2025,
+      "value": 2249515
     },
     "GUY": {
-      "year": 2024,
-      "value": 831087
+      "year": 2025,
+      "value": 835986
     },
     "HTI": {
-      "year": 2024,
-      "value": 11772557
+      "year": 2025,
+      "value": 11906095
     },
     "HND": {
-      "year": 2024,
-      "value": 10825703
+      "year": 2025,
+      "value": 11005850
     },
     "HKG": {
-      "year": 2024,
-      "value": 7524100
+      "year": 2025,
+      "value": 7498900
     },
     "HUN": {
-      "year": 2024,
-      "value": 9562065
+      "year": 2025,
+      "value": 9514251
     },
     "ISL": {
-      "year": 2024,
-      "value": 386506
+      "year": 2025,
+      "value": 392404
     },
     "IND": {
-      "year": 2024,
-      "value": 1450935791
+      "year": 2025,
+      "value": 1463865525
     },
     "IDN": {
-      "year": 2024,
-      "value": 283487931
+      "year": 2025,
+      "value": 285721236
     },
     "IRN": {
-      "year": 2024,
-      "value": 91567738
+      "year": 2025,
+      "value": 92417681
     },
     "IRQ": {
-      "year": 2024,
-      "value": 46042015
+      "year": 2025,
+      "value": 47020774
     },
     "IRL": {
-      "year": 2024,
-      "value": 5395790
+      "year": 2025,
+      "value": 5484367
     },
     "IMN": {
-      "year": 2024,
-      "value": 84160
+      "year": 2025,
+      "value": 84118
     },
     "ISR": {
-      "year": 2024,
-      "value": 9974400
+      "year": 2025,
+      "value": 10122800
     },
     "ITA": {
-      "year": 2024,
-      "value": 58952704
+      "year": 2025,
+      "value": 58915656
     },
     "JAM": {
-      "year": 2024,
-      "value": 2839175
+      "year": 2025,
+      "value": 2837077
     },
     "JPN": {
-      "year": 2024,
-      "value": 123975371
+      "year": 2025,
+      "value": 123366734
     },
     "JOR": {
-      "year": 2024,
-      "value": 11552876
+      "year": 2025,
+      "value": 11520684
     },
     "KAZ": {
-      "year": 2024,
-      "value": 20592571
+      "year": 2025,
+      "value": 20843754
     },
     "KEN": {
-      "year": 2024,
-      "value": 56432944
+      "year": 2025,
+      "value": 57532493
     },
     "KIR": {
-      "year": 2024,
-      "value": 134518
+      "year": 2025,
+      "value": 136488
     },
     "PRK": {
-      "year": 2024,
-      "value": 26498823
+      "year": 2025,
+      "value": 26571036
     },
     "KOR": {
-      "year": 2024,
-      "value": 51751065
+      "year": 2025,
+      "value": 51684564
     },
     "XKX": {
-      "year": 2024,
-      "value": 1594353
+      "year": 2025,
+      "value": 1576876
     },
     "KWT": {
-      "year": 2024,
-      "value": 4897263
+      "year": 2025,
+      "value": 4865298
     },
     "KGZ": {
-      "year": 2024,
-      "value": 7221868
+      "year": 2025,
+      "value": 7343064
     },
     "LAO": {
-      "year": 2024,
-      "value": 7769819
+      "year": 2025,
+      "value": 7873046
     },
     "LVA": {
-      "year": 2024,
-      "value": 1866124
+      "year": 2025,
+      "value": 1847785
     },
     "LBN": {
-      "year": 2024,
-      "value": 5805962
+      "year": 2025,
+      "value": 5849421
     },
     "LSO": {
-      "year": 2024,
-      "value": 2337423
+      "year": 2025,
+      "value": 2363325
     },
     "LBR": {
-      "year": 2024,
-      "value": 5612817
+      "year": 2025,
+      "value": 5731206
     },
     "LBY": {
-      "year": 2024,
-      "value": 7381023
+      "year": 2025,
+      "value": 7458555
     },
     "LIE": {
-      "year": 2024,
-      "value": 40450
+      "year": 2025,
+      "value": 41024
     },
     "LTU": {
-      "year": 2024,
-      "value": 2888278
+      "year": 2025,
+      "value": 2888774
     },
     "LUX": {
-      "year": 2024,
-      "value": 677012
+      "year": 2025,
+      "value": 686970
     },
     "MAC": {
-      "year": 2024,
-      "value": 687000
+      "year": 2025,
+      "value": 685900
     },
     "MDG": {
-      "year": 2024,
-      "value": 31964956
+      "year": 2025,
+      "value": 32740678
     },
     "MWI": {
-      "year": 2024,
-      "value": 21655286
+      "year": 2025,
+      "value": 22216120
     },
     "MYS": {
-      "year": 2024,
-      "value": 35557673
+      "year": 2025,
+      "value": 35977838
     },
     "MDV": {
-      "year": 2024,
-      "value": 527799
+      "year": 2025,
+      "value": 529676
     },
     "MLI": {
-      "year": 2024,
-      "value": 24478595
+      "year": 2025,
+      "value": 25198821
     },
     "MLT": {
-      "year": 2024,
-      "value": 568847
+      "year": 2025,
+      "value": 579704
     },
     "MHL": {
-      "year": 2024,
-      "value": 37548
+      "year": 2025,
+      "value": 36282
     },
     "MRT": {
-      "year": 2024,
-      "value": 5169395
+      "year": 2025,
+      "value": 5315065
     },
     "MUS": {
-      "year": 2024,
-      "value": 1245779
+      "year": 2025,
+      "value": 1243741
     },
     "MEX": {
-      "year": 2024,
-      "value": 130861007
+      "year": 2025,
+      "value": 131946900
     },
     "FSM": {
-      "year": 2024,
-      "value": 113160
+      "year": 2025,
+      "value": 113683
     },
     "MDA": {
-      "year": 2024,
-      "value": 2402306
+      "year": 2025,
+      "value": 2360527
     },
     "MCO": {
-      "year": 2024,
-      "value": 38631
+      "year": 2025,
+      "value": 38341
     },
     "MNG": {
-      "year": 2024,
-      "value": 3524788
+      "year": 2025,
+      "value": 3568978
     },
     "MNE": {
-      "year": 2024,
-      "value": 623525
+      "year": 2025,
+      "value": 623129
     },
     "MAR": {
-      "year": 2024,
-      "value": 38081173
+      "year": 2025,
+      "value": 38430770
     },
     "MOZ": {
-      "year": 2024,
-      "value": 34631766
+      "year": 2025,
+      "value": 35631653
     },
     "MMR": {
-      "year": 2024,
-      "value": 54500091
+      "year": 2025,
+      "value": 54850648
     },
     "NAM": {
-      "year": 2024,
-      "value": 3030131
+      "year": 2025,
+      "value": 3092816
     },
     "NRU": {
-      "year": 2024,
-      "value": 11947
+      "year": 2025,
+      "value": 12025
     },
     "NPL": {
-      "year": 2024,
-      "value": 29651054
+      "year": 2025,
+      "value": 29618118
     },
     "NLD": {
-      "year": 2024,
-      "value": 17993485
+      "year": 2025,
+      "value": 18087633
     },
     "NCL": {
-      "year": 2024,
-      "value": 292639
+      "year": 2025,
+      "value": 295333
     },
     "NZL": {
-      "year": 2024,
-      "value": 5287500
+      "year": 2025,
+      "value": 5324700
     },
     "NIC": {
-      "year": 2024,
-      "value": 6916140
+      "year": 2025,
+      "value": 7007502
     },
     "NER": {
-      "year": 2024,
-      "value": 27032412
+      "year": 2025,
+      "value": 27917831
     },
     "NGA": {
-      "year": 2024,
-      "value": 232679478
+      "year": 2025,
+      "value": 237527782
     },
     "MKD": {
-      "year": 2024,
-      "value": 1824359
+      "year": 2025,
+      "value": 1820909
     },
     "MNP": {
-      "year": 2024,
-      "value": 44278
+      "year": 2025,
+      "value": 43541
     },
     "NOR": {
-      "year": 2024,
-      "value": 5572279
+      "year": 2025,
+      "value": 5610870
     },
     "OMN": {
-      "year": 2024,
-      "value": 5281538
+      "year": 2025,
+      "value": 5494691
     },
     "PAK": {
-      "year": 2024,
-      "value": 251269164
+      "year": 2025,
+      "value": 255219554
     },
     "PLW": {
-      "year": 2024,
-      "value": 17695
+      "year": 2025,
+      "value": 17663
     },
     "PAN": {
-      "year": 2024,
-      "value": 4515577
+      "year": 2025,
+      "value": 4571189
     },
     "PNG": {
-      "year": 2024,
-      "value": 10576502
+      "year": 2025,
+      "value": 10762817
     },
     "PRY": {
-      "year": 2024,
-      "value": 6929153
+      "year": 2025,
+      "value": 7013078
     },
     "PER": {
-      "year": 2024,
-      "value": 34217848
+      "year": 2025,
+      "value": 34576665
     },
     "PHL": {
-      "year": 2024,
-      "value": 115843670
+      "year": 2025,
+      "value": 116786962
     },
     "POL": {
-      "year": 2024,
-      "value": 36559233
+      "year": 2025,
+      "value": 36435861
     },
     "PRT": {
-      "year": 2024,
-      "value": 10694681
+      "year": 2025,
+      "value": 10804871
     },
     "PRI": {
-      "year": 2024,
-      "value": 3203295
+      "year": 2025,
+      "value": 3184835
     },
     "QAT": {
-      "year": 2024,
-      "value": 2857822
+      "year": 2025,
+      "value": 2972215
     },
     "ROU": {
-      "year": 2024,
-      "value": 19051804
+      "year": 2025,
+      "value": 19020271
     },
     "RUS": {
-      "year": 2024,
-      "value": 143533851
+      "year": 2025,
+      "value": 143513328
     },
     "RWA": {
-      "year": 2024,
-      "value": 14256567
+      "year": 2025,
+      "value": 14569341
     },
     "WSM": {
-      "year": 2024,
-      "value": 218019
+      "year": 2025,
+      "value": 219306
     },
     "SMR": {
-      "year": 2024,
-      "value": 33977
+      "year": 2025,
+      "value": 34109
     },
     "STP": {
-      "year": 2024,
-      "value": 235536
+      "year": 2025,
+      "value": 240254
     },
     "SAU": {
-      "year": 2024,
-      "value": 35300280
+      "year": 2025,
+      "value": 36973555
     },
     "SEN": {
-      "year": 2024,
-      "value": 18501984
+      "year": 2025,
+      "value": 18931966
     },
     "SRB": {
-      "year": 2024,
-      "value": 6586476
+      "year": 2025,
+      "value": 6549143
     },
     "SYC": {
-      "year": 2024,
-      "value": 121354
+      "year": 2025,
+      "value": 122730
     },
     "SLE": {
-      "year": 2024,
-      "value": 8642022
+      "year": 2025,
+      "value": 8819794
     },
     "SGP": {
-      "year": 2024,
-      "value": 6036860
+      "year": 2025,
+      "value": 6111175
     },
     "SXM": {
-      "year": 2024,
-      "value": 43350
+      "year": 2025,
+      "value": 43923
     },
     "SVK": {
-      "year": 2024,
-      "value": 5422069
+      "year": 2025,
+      "value": 5413813
     },
     "SVN": {
-      "year": 2024,
-      "value": 2127400
+      "year": 2025,
+      "value": 2130986
     },
     "SLB": {
-      "year": 2024,
-      "value": 819198
+      "year": 2025,
+      "value": 838645
     },
     "SOM": {
-      "year": 2024,
-      "value": 19009151
+      "year": 2025,
+      "value": 19654739
     },
     "ZAF": {
-      "year": 2024,
-      "value": 64007187
+      "year": 2025,
+      "value": 64747319
     },
     "SSD": {
-      "year": 2024,
-      "value": 11943408
+      "year": 2025,
+      "value": 12188788
     },
     "ESP": {
-      "year": 2024,
-      "value": 48848840
+      "year": 2025,
+      "value": 49355143
     },
     "LKA": {
-      "year": 2024,
-      "value": 21916000
+      "year": 2025,
+      "value": 21756000
     },
     "KNA": {
-      "year": 2024,
-      "value": 46843
+      "year": 2025,
+      "value": 46922
     },
     "LCA": {
-      "year": 2024,
-      "value": 179744
+      "year": 2025,
+      "value": 180149
     },
     "MAF": {
-      "year": 2024,
-      "value": 26129
+      "year": 2025,
+      "value": 24941
     },
     "VCT": {
-      "year": 2024,
-      "value": 100616
+      "year": 2025,
+      "value": 99924
     },
     "SDN": {
-      "year": 2024,
-      "value": 50448963
+      "year": 2025,
+      "value": 51662147
     },
     "SUR": {
-      "year": 2024,
-      "value": 634431
+      "year": 2025,
+      "value": 639850
     },
     "SWE": {
-      "year": 2024,
-      "value": 10569709
+      "year": 2025,
+      "value": 10596620
     },
     "CHE": {
-      "year": 2024,
-      "value": 9005582
+      "year": 2025,
+      "value": 9092436
     },
     "SYR": {
-      "year": 2024,
-      "value": 24672760
+      "year": 2025,
+      "value": 25620427
     },
     "TJK": {
-      "year": 2024,
-      "value": 10590927
+      "year": 2025,
+      "value": 10786734
     },
     "TZA": {
-      "year": 2024,
-      "value": 68560157
+      "year": 2025,
+      "value": 70545865
     },
     "THA": {
-      "year": 2024,
-      "value": 71668011
+      "year": 2025,
+      "value": 71619863
     },
     "TLS": {
-      "year": 2024,
-      "value": 1400638
+      "year": 2025,
+      "value": 1418517
     },
     "TGO": {
-      "year": 2024,
-      "value": 9515236
+      "year": 2025,
+      "value": 8591626
     },
     "TON": {
-      "year": 2024,
-      "value": 104175
+      "year": 2025,
+      "value": 103742
     },
     "TTO": {
-      "year": 2024,
-      "value": 1368333
+      "year": 2025,
+      "value": 1367764
     },
     "TUN": {
-      "year": 2024,
-      "value": 12277109
+      "year": 2025,
+      "value": 12348573
     },
     "TUR": {
-      "year": 2024,
-      "value": 85518661
+      "year": 2025,
+      "value": 85878556
     },
     "TKM": {
-      "year": 2024,
-      "value": 7494498
+      "year": 2025,
+      "value": 7618847
     },
     "TCA": {
-      "year": 2024,
-      "value": 46535
+      "year": 2025,
+      "value": 46855
     },
     "TUV": {
-      "year": 2024,
-      "value": 9646
+      "year": 2025,
+      "value": 9492
     },
     "UGA": {
-      "year": 2024,
-      "value": 50015092
+      "year": 2025,
+      "value": 51384894
     },
     "UKR": {
-      "year": 2024,
-      "value": 37860221
+      "year": 2025,
+      "value": 38980376
     },
     "ARE": {
-      "year": 2024,
-      "value": 10986400
+      "year": 2025,
+      "value": 11513149
     },
     "GBR": {
-      "year": 2024,
-      "value": 69226000
+      "year": 2025,
+      "value": 69487000
     },
     "USA": {
-      "year": 2024,
-      "value": 340110988
+      "year": 2025,
+      "value": 341784857
     },
     "URY": {
-      "year": 2024,
-      "value": 3386588
+      "year": 2025,
+      "value": 3384688
     },
     "UZB": {
-      "year": 2024,
-      "value": 36361859
+      "year": 2025,
+      "value": 37053428
     },
     "VUT": {
-      "year": 2024,
-      "value": 327777
+      "year": 2025,
+      "value": 335169
     },
     "VEN": {
-      "year": 2024,
-      "value": 28405543
+      "year": 2025,
+      "value": 28516896
     },
     "VNM": {
-      "year": 2024,
-      "value": 100987686
+      "year": 2025,
+      "value": 101598527
     },
     "VIR": {
-      "year": 2024,
-      "value": 104377
+      "year": 2025,
+      "value": 103792
     },
     "PSE": {
-      "year": 2024,
-      "value": 5289152
+      "year": 2025,
+      "value": 5413596
     },
     "YEM": {
-      "year": 2024,
-      "value": 40583164
+      "year": 2025,
+      "value": 41773878
     },
     "ZMB": {
-      "year": 2024,
-      "value": 21314956
+      "year": 2025,
+      "value": 21913874
     },
     "ZWE": {
-      "year": 2024,
-      "value": 16634373
+      "year": 2025,
+      "value": 16950795
     }
   }
 }

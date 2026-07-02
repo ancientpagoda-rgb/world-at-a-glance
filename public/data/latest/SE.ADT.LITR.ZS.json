@@ -1,6 +1,6 @@
 {
   "metricId": "SE.ADT.LITR.ZS",
-  "updatedAt": "2026-06-30T15:26:24.302Z",
+  "updatedAt": "2026-07-02T15:13:44.667Z",
   "values": {
     "AFE": {
       "year": 2024,
@@ -49,10 +49,6 @@
     "TEC": {
       "year": 2024,
       "value": 99.3899993896484
-    },
-    "FCS": {
-      "year": 2024,
-      "value": 67.5800018310547
     },
     "HPC": {
       "year": 2024,

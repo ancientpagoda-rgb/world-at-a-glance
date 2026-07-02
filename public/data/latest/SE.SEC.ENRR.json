@@ -1,6 +1,6 @@
 {
   "metricId": "SE.SEC.ENRR",
-  "updatedAt": "2026-06-30T15:26:24.302Z",
+  "updatedAt": "2026-07-02T15:13:44.667Z",
   "values": {
     "AFE": {
       "year": 2024,
@@ -57,10 +57,6 @@
     "EUU": {
       "year": 2024,
       "value": 106.954109191895
-    },
-    "FCS": {
-      "year": 2024,
-      "value": 46.8620300292969
     },
     "HPC": {
       "year": 2024,

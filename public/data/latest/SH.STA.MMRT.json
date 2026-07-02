@@ -1,6 +1,6 @@
 {
   "metricId": "SH.STA.MMRT",
-  "updatedAt": "2026-06-30T15:26:24.302Z",
+  "updatedAt": "2026-07-02T15:13:44.667Z",
   "values": {
     "AFE": {
       "year": 2023,
@@ -58,10 +58,6 @@
       "year": 2023,
       "value": 5
     },
-    "FCS": {
-      "year": 2023,
-      "value": 458
-    },
     "HPC": {
       "year": 2023,
       "value": 321
@@ -96,7 +92,7 @@
     },
     "LAC": {
       "year": 2023,
-      "value": 69
+      "value": 76
     },
     "TLA": {
       "year": 2023,
@@ -124,7 +120,7 @@
     },
     "MIC": {
       "year": 2023,
-      "value": 174
+      "value": 175
     },
     "NAC": {
       "year": 2023,
@@ -168,7 +164,7 @@
     },
     "SSA": {
       "year": 2023,
-      "value": 449
+      "value": 424
     },
     "TSS": {
       "year": 2023,
