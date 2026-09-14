@@ -1,6 +1,6 @@
 {
   "metricId": "NY.GDP.PCAP.CD",
-  "updatedAt": "2026-09-13T16:50:04.487Z",
+  "updatedAt": "2026-09-14T18:21:00.350Z",
   "values": {
     "AFE": {
       "year": 2025,
@@ -413,10 +413,6 @@
     "GNQ": {
       "year": 2025,
       "value": 6615.25245207167
-    },
-    "ERI": {
-      "year": 2011,
-      "value": 688.68165957684
     },
     "EST": {
       "year": 2025,
