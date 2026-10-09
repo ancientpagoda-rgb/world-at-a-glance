@@ -1,6 +1,6 @@
 {
   "metricId": "NE.CON.GOVT.ZS",
-  "updatedAt": "2026-10-08T19:08:49.713Z",
+  "updatedAt": "2026-10-09T18:39:16.927Z",
   "values": {
     "AFE": {
       "year": 2025,
@@ -144,7 +144,7 @@
     },
     "SSF": {
       "year": 2025,
-      "value": 16.9588389300009
+      "value": 16.958838930001
     },
     "SSA": {
       "year": 2025,
