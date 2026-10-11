@@ -1,6 +1,6 @@
 {
   "metricId": "SH.MED.BEDS.ZS",
-  "updatedAt": "2026-10-09T18:39:16.927Z",
+  "updatedAt": "2026-10-11T17:54:08.281Z",
   "values": {
     "AFE": {
       "year": 1990,
@@ -57,6 +57,10 @@
     "EUU": {
       "year": 2022,
       "value": 5.14333478552798
+    },
+    "FCV": {
+      "year": 1990,
+      "value": 2.52029523472904
     },
     "HPC": {
       "year": 1990,
