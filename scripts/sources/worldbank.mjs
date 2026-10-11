@@ -1,6 +1,6 @@
 const WB = "https://api.worldbank.org/v2";
 
-async function fetchJson(url, { timeoutMs = 30000, retries = 3 } = {}) {
+async function fetchJson(url, { timeoutMs = 60000, retries = 4 } = {}) {
   let lastErr;
   for (let attempt = 1; attempt <= retries; attempt++) {
     const ac = new AbortController();
@@ -12,8 +12,7 @@ async function fetchJson(url, { timeoutMs = 30000, retries = 3 } = {}) {
     } catch (e) {
       lastErr = e;
       if (attempt < retries) {
-        // small backoff
-        await new Promise((res) => setTimeout(res, 500 * attempt));
+        await new Promise((res) => setTimeout(res, Math.min(1000 * 2 ** (attempt - 1), 10000)));
       }
     } finally {
       clearTimeout(t);
