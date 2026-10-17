@@ -1,6 +1,6 @@
 {
   "metricId": "SL.UEM.TOTL.ZS",
-  "updatedAt": "2026-10-16T17:09:55.099Z",
+  "updatedAt": "2026-10-17T16:08:23.328Z",
   "values": {
     "AFE": {
       "year": 2025,
@@ -806,10 +806,6 @@
       "year": 2025,
       "value": 18.003
     },
-    "SDN": {
-      "year": 2022,
-      "value": 7.53
-    },
     "SUR": {
       "year": 2025,
       "value": 7.834
@@ -870,10 +866,6 @@
       "year": 2025,
       "value": 2.746
     },
-    "UKR": {
-      "year": 2021,
-      "value": 9.834
-    },
     "ARE": {
       "year": 2025,
       "value": 2.174
@@ -909,10 +901,6 @@
     "VIR": {
       "year": 2025,
       "value": 11.443
-    },
-    "PSE": {
-      "year": 2022,
-      "value": 24.42
     },
     "YEM": {
       "year": 2025,
