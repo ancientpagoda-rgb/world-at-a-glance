@@ -1,6 +1,6 @@
 {
   "metricId": "energy_per_capita",
-  "updatedAt": "2026-11-09T22:52:11.467Z",
+  "updatedAt": "2026-11-10T20:13:31.365Z",
   "values": {
     "AFG": {
       "year": 2024,
@@ -266,6 +266,10 @@
       "year": 2024,
       "value": 37865.609
     },
+    "GUF": {
+      "year": 2024,
+      "value": 0
+    },
     "PYF": {
       "year": 2024,
       "value": 20313.357
@@ -301,6 +305,10 @@
     "GRD": {
       "year": 2024,
       "value": 14321.675
+    },
+    "GLP": {
+      "year": 2024,
+      "value": 0
     },
     "GTM": {
       "year": 2024,
@@ -458,6 +466,10 @@
       "year": 2024,
       "value": 67320.945
     },
+    "MTQ": {
+      "year": 2024,
+      "value": 0
+    },
     "MRT": {
       "year": 2024,
       "value": 3806.559
@@ -597,6 +609,10 @@
     "QAT": {
       "year": 2024,
       "value": 214520.297
+    },
+    "REU": {
+      "year": 2024,
+      "value": 0
     },
     "ROU": {
       "year": 2024,
